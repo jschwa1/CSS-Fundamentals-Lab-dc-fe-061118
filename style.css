@@ -23,6 +23,6 @@ nav a {
   background-color: blue;
 }
 
-featured-property.figcaption {
+.featured-property{
   text-align: center;
 }
