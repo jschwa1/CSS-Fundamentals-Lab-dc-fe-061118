@@ -22,3 +22,7 @@ a {
   padding-right: 10px;
   background-color: blue;
 }
+
+.figcaption {
+  text-align: center;
+}
