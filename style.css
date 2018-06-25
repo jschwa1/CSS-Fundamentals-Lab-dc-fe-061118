@@ -35,4 +35,5 @@ figure {
 
 div {
   display: inline-block;
+  float: left;
 }
